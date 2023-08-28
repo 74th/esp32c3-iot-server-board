@@ -18,3 +18,4 @@ fp-info-cache
 *.ses
 logs
 \#auto_saved_files\#
+*.FCStd1
