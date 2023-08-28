@@ -19,3 +19,4 @@ fp-info-cache
 logs
 \#auto_saved_files\#
 *.FCStd1
+*.FCBak
