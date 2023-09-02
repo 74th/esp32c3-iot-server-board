@@ -6,6 +6,7 @@
 
   (title_block
     (title "ESP32C3 IoT Server")
+    (rev "1.1.1")
   )
 
   (lib_symbols
@@ -2675,31 +2676,6 @@
     )
   )
 
-  (symbol (lib_id "power:+5V") (at 256.54 127 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 9ecd69ea-5e08-4e29-9d3f-58874a9527b4)
-    (property "Reference" "#PWR029" (at 256.54 130.81 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+5V" (at 256.54 121.92 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 256.54 127 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 256.54 127 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 3355fd7c-c27b-46ba-a00e-919eee286ea0))
-    (instances
-      (project "esp32c3-iot-client-board"
-        (path "/2360abc4-b955-42fd-b995-e0b25dda0008"
-          (reference "#PWR029") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Device:R") (at 191.77 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a10e0cd1-a9d9-4f32-9ccc-0595fbe83a79)
@@ -3015,6 +2991,31 @@
       (project "esp32c3-iot-client-board"
         (path "/2360abc4-b955-42fd-b995-e0b25dda0008"
           (reference "#PWR023") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:+3V3") (at 256.54 127 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid cbe41df1-ca32-4b23-88b2-e5d821221a0a)
+    (property "Reference" "#PWR029" (at 256.54 130.81 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+3V3" (at 256.54 121.92 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 256.54 127 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 256.54 127 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c367eed0-96d2-4a11-8b66-1e51a34d06c0))
+    (instances
+      (project "esp32c3-iot-client-board"
+        (path "/2360abc4-b955-42fd-b995-e0b25dda0008"
+          (reference "#PWR029") (unit 1)
         )
       )
     )
