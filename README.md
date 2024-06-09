@@ -18,11 +18,11 @@
 | D1          | RGBLED 3528 SK6812MINI-E                 | 1        |
 | J1          | Box Pin Header 2x3 Pitch 1.27mm          | 1        |
 | J2          | USB Type-C Receptacle - USB2.0_C_v3      | 1        |
-| R1, R2      | Capacitor 0805 1kF (NC)                  | 2        |
-| R3, R4, R10 | Capacitor 0805 10kF                      | 3        |
-| R5, R9      | Capacitor 0805 5.1kF                     | 2        |
-| R6, R7      | Capacitor 0805 27.4F                     | 2        |
-| R8          | Capacitor 0805 56kF                      | 1        |
+| R1, R2      | Capacitor 0805 1kΩ (NC)                 | 2        |
+| R3, R4, R10 | Capacitor 0805 10kΩ                     | 3        |
+| R5, R9      | Capacitor 0805 5.1kΩ                    | 2        |
+| R6, R7      | Capacitor 0805 10Ω                      | 2        |
+| R8          | Capacitor 0805 56kΩ                     | 1        |
 | SW1         | Button SKRPABE010                        | 1        |
 | SW2         | Button SKRPABE010                        | 1        |
 | SW3         | Button SKRPABE010                        | 1        |
