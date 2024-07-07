@@ -1,6 +1,28 @@
-# IoT Client Board - ESP32C3
+# IoT Server Board - ESP32C3
 
 <img src="./esp32c3-pcb/photo1.jpg" width="33%"><img src="./esp32c3-pcb/photo2.jpg" width="33%"><img src="./esp32c3-pcb/photo3.jpg" width="33%">
+
+Board for converting Grove device to IoT Server using ESP32-C3-WROOM-02.
+
+ESP32-C3-WROOM-02 を使った Grove デバイスを IoT Server 化するためのボード。
+
+## features
+
+- ESP32-C3 onboard for WiFi connectivity
+- Three Grove ports are equipped.
+- Selectable 5V or 3.3V VCC for Grove port
+- RGB LED for indicator
+- Button for operation
+- USB Type-C port for firmware rewriting
+
+### 🇯🇵
+
+- ESP32-C3 搭載で、WiFi 接続が可能
+- Grove ポートを 3 ポート搭載
+- Grove ポートの VCC は 5V、3.3V を選択可能
+- インジケータ用の RGB LED 搭載
+- 操作用のボタン搭載
+- USB Type-C ポートで、ファームウェアの書き換え可能
 
 ## v1.2.0
 
