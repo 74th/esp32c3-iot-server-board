@@ -1,5 +1,7 @@
 # IoT Client Board - ESP32C3
 
+<img src="./esp32c3-pcb/photo1.jpg" width="33%"><img src="./esp32c3-pcb/photo2.jpg" width="33%"><img src="./esp32c3-pcb/photo3.jpg" width="33%">
+
 ## v1.2.0
 
 - Semantics: [PDF](./pcb-kicad/esp32c3-iot-server-v1.2.0-semantics.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fesp32c3-iot-client-board%2Fblob%2Fv1.2.0%2Fpcb-kicad%2Fesp32c3-iot-client-board.kicad_sch)
@@ -18,11 +20,11 @@
 | D1          | RGBLED 3528 SK6812MINI-E                 | 1        |
 | J1          | Box Pin Header 2x3 Pitch 1.27mm          | 1        |
 | J2          | USB Type-C Receptacle - USB2.0_C_v3      | 1        |
-| R1, R2      | Capacitor 0805 1kΩ (NC)                 | 2        |
-| R3, R4, R10 | Capacitor 0805 10kΩ                     | 3        |
-| R5, R9      | Capacitor 0805 5.1kΩ                    | 2        |
-| R6, R7      | Capacitor 0805 10Ω                      | 2        |
-| R8          | Capacitor 0805 56kΩ                     | 1        |
+| R1, R2      | Capacitor 0805 1kΩ (NC)                  | 2        |
+| R3, R4, R10 | Capacitor 0805 10kΩ                      | 3        |
+| R5, R9      | Capacitor 0805 5.1kΩ                     | 2        |
+| R6, R7      | Capacitor 0805 10Ω                       | 2        |
+| R8          | Capacitor 0805 56kΩ                      | 1        |
 | SW1         | Button SKRPABE010                        | 1        |
 | SW2         | Button SKRPABE010                        | 1        |
 | SW3         | Button SKRPABE010                        | 1        |
