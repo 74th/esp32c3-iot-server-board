@@ -6,6 +6,8 @@ Board for converting Grove device to IoT Server using ESP32-C3-WROOM-02.
 
 ESP32-C3-WROOM-02 を使った Grove デバイスを IoT Server 化するためのボード。
 
+74thが作成するファームウェアについてはこちら https://github.com/74th/esp32c3-iot-server-firmware
+
 ## features
 
 - ESP32-C3 onboard for WiFi connectivity
