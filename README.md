@@ -26,7 +26,7 @@ ESP32-C3-WROOM-02 を使った Grove デバイスを IoT Server 化するため�
 
 ## v1.2.0
 
-- Semantics: [PDF](./pcb-kicad/esp32c3-iot-server-v1.2.0-semantics.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fesp32c3-iot-client-board%2Fblob%2Fv1.2.0%2Fpcb-kicad%2Fesp32c3-iot-client-board.kicad_sch)
+- Semantics: [PDF](./esp32c3-pcb/esp32c3-iot-server-v1.2.0-semantics.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fesp32c3-iot-client-board%2Fblob%2Fv1.2.0%2Fpcb-kicad%2Fesp32c3-iot-client-board.kicad_sch)
 - PCB [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fesp32c3-iot-client-board%2Fblob%2Fv1.2.0%2Fpcb-kicad%2Fesp32c3-iot-client-board.kicad_pcb)
 
 ### BOM
