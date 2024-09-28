@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "IR Grove")
-		(rev "1.0.0")
+		(rev "1.0.1")
 		(company "Atsushi Morimoto (@74th)")
 	)
 	(lib_symbols
@@ -1232,7 +1232,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm"
+		(property "Footprint" "74th:PinOut_Pin_2_1GND"
 			(at 167.64 59.69 0)
 			(effects
 				(font
@@ -1784,7 +1784,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm"
+		(property "Footprint" "74th:PinOut_Pin_2_1GND"
 			(at 151.13 59.69 0)
 			(effects
 				(font
